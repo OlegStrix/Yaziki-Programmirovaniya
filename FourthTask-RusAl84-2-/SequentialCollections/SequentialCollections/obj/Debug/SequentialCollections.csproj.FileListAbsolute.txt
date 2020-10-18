@@ -1,0 +1,6 @@
+C:\Users\olego\Desktop\SequentialCollections\SequentialCollections\obj\Debug\SequentialCollections.csprojResolveAssemblyReference.cache
+C:\Users\olego\Desktop\SequentialCollections\SequentialCollections\bin\Debug\SequentialCollections.exe.config
+C:\Users\olego\Desktop\SequentialCollections\SequentialCollections\bin\Debug\SequentialCollections.exe
+C:\Users\olego\Desktop\SequentialCollections\SequentialCollections\bin\Debug\SequentialCollections.pdb
+C:\Users\olego\Desktop\SequentialCollections\SequentialCollections\obj\Debug\SequentialCollections.exe
+C:\Users\olego\Desktop\SequentialCollections\SequentialCollections\obj\Debug\SequentialCollections.pdb

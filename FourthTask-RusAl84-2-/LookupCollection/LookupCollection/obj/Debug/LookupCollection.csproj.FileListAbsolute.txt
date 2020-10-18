@@ -1,0 +1,6 @@
+C:\Users\olego\Desktop\LookupCollection\LookupCollection\obj\Debug\LookupCollection.csprojResolveAssemblyReference.cache
+C:\Users\olego\Desktop\LookupCollection\LookupCollection\bin\Debug\LookupCollection.exe.config
+C:\Users\olego\Desktop\LookupCollection\LookupCollection\bin\Debug\LookupCollection.exe
+C:\Users\olego\Desktop\LookupCollection\LookupCollection\bin\Debug\LookupCollection.pdb
+C:\Users\olego\Desktop\LookupCollection\LookupCollection\obj\Debug\LookupCollection.exe
+C:\Users\olego\Desktop\LookupCollection\LookupCollection\obj\Debug\LookupCollection.pdb

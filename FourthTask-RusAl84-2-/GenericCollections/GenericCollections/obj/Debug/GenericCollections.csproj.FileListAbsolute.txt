@@ -1,0 +1,6 @@
+C:\Users\olego\Desktop\GenericCollections\GenericCollections\obj\Debug\GenericCollections.csprojResolveAssemblyReference.cache
+C:\Users\olego\Desktop\GenericCollections\GenericCollections\bin\Debug\GenericCollections.exe.config
+C:\Users\olego\Desktop\GenericCollections\GenericCollections\bin\Debug\GenericCollections.exe
+C:\Users\olego\Desktop\GenericCollections\GenericCollections\bin\Debug\GenericCollections.pdb
+C:\Users\olego\Desktop\GenericCollections\GenericCollections\obj\Debug\GenericCollections.exe
+C:\Users\olego\Desktop\GenericCollections\GenericCollections\obj\Debug\GenericCollections.pdb

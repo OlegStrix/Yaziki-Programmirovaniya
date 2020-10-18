@@ -1,0 +1,6 @@
+C:\Users\olego\Desktop\DictionaryCollection\DictionaryCollection\obj\Debug\DictionaryCollection.csprojResolveAssemblyReference.cache
+C:\Users\olego\Desktop\DictionaryCollection\DictionaryCollection\bin\Debug\DictionaryCollection.exe.config
+C:\Users\olego\Desktop\DictionaryCollection\DictionaryCollection\bin\Debug\DictionaryCollection.exe
+C:\Users\olego\Desktop\DictionaryCollection\DictionaryCollection\bin\Debug\DictionaryCollection.pdb
+C:\Users\olego\Desktop\DictionaryCollection\DictionaryCollection\obj\Debug\DictionaryCollection.exe
+C:\Users\olego\Desktop\DictionaryCollection\DictionaryCollection\obj\Debug\DictionaryCollection.pdb
