@@ -1,0 +1,5 @@
+C:\Users\olego\Desktop\SecondTask\SortString\SortString\obj\Debug\SortString.csprojResolveAssemblyReference.cache
+C:\Users\olego\Desktop\SecondTask\SortString\SortString\bin\Debug\SortString.exe
+C:\Users\olego\Desktop\SecondTask\SortString\SortString\bin\Debug\SortString.pdb
+C:\Users\olego\Desktop\SecondTask\SortString\SortString\obj\Debug\SortString.exe
+C:\Users\olego\Desktop\SecondTask\SortString\SortString\obj\Debug\SortString.pdb

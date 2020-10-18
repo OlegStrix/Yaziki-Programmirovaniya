@@ -1,0 +1,5 @@
+C:\Users\olego\Desktop\boot\boot\obj\Debug\boot.csprojResolveAssemblyReference.cache
+C:\Users\olego\Desktop\boot\boot\bin\Debug\boot.exe
+C:\Users\olego\Desktop\boot\boot\bin\Debug\boot.pdb
+C:\Users\olego\Desktop\boot\boot\obj\Debug\boot.exe
+C:\Users\olego\Desktop\boot\boot\obj\Debug\boot.pdb

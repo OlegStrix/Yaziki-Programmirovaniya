@@ -1,0 +1,5 @@
+C:\Users\olego\Desktop\ReformatPhone\ReformatPhone\bin\Debug\ReformatPhone.exe
+C:\Users\olego\Desktop\ReformatPhone\ReformatPhone\bin\Debug\ReformatPhone.pdb
+C:\Users\olego\Desktop\ReformatPhone\ReformatPhone\obj\Debug\ReformatPhone.csprojResolveAssemblyReference.cache
+C:\Users\olego\Desktop\ReformatPhone\ReformatPhone\obj\Debug\ReformatPhone.exe
+C:\Users\olego\Desktop\ReformatPhone\ReformatPhone\obj\Debug\ReformatPhone.pdb

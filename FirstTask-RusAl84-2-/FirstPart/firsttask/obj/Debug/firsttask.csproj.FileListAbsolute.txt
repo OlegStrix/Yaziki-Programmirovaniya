@@ -1,0 +1,5 @@
+C:\Users\olego\Desktop\firsttask\firsttask\bin\Debug\firsttask.exe
+C:\Users\olego\Desktop\firsttask\firsttask\bin\Debug\firsttask.pdb
+C:\Users\olego\Desktop\firsttask\firsttask\obj\Debug\firsttask.csprojResolveAssemblyReference.cache
+C:\Users\olego\Desktop\firsttask\firsttask\obj\Debug\firsttask.exe
+C:\Users\olego\Desktop\firsttask\firsttask\obj\Debug\firsttask.pdb

@@ -1,0 +1,5 @@
+C:\Users\olego\Documents\SharpDevelop Projects\secondtask\secondtask\obj\Debug\secondtask.csprojResolveAssemblyReference.cache
+C:\Users\olego\Documents\SharpDevelop Projects\secondtask\secondtask\bin\Debug\secondtask.exe
+C:\Users\olego\Documents\SharpDevelop Projects\secondtask\secondtask\bin\Debug\secondtask.pdb
+C:\Users\olego\Documents\SharpDevelop Projects\secondtask\secondtask\obj\Debug\secondtask.exe
+C:\Users\olego\Documents\SharpDevelop Projects\secondtask\secondtask\obj\Debug\secondtask.pdb

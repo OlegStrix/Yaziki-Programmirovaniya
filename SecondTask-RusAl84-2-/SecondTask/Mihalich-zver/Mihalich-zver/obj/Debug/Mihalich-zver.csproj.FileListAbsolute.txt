@@ -1,0 +1,5 @@
+C:\Users\olego\Documents\SharpDevelop Projects\Mihalich-zver\Mihalich-zver\obj\Debug\Mihalich-zver.csprojResolveAssemblyReference.cache
+C:\Users\olego\Documents\SharpDevelop Projects\Mihalich-zver\Mihalich-zver\bin\Debug\Mihalich-zver.exe
+C:\Users\olego\Documents\SharpDevelop Projects\Mihalich-zver\Mihalich-zver\bin\Debug\Mihalich-zver.pdb
+C:\Users\olego\Documents\SharpDevelop Projects\Mihalich-zver\Mihalich-zver\obj\Debug\Mihalich-zver.exe
+C:\Users\olego\Documents\SharpDevelop Projects\Mihalich-zver\Mihalich-zver\obj\Debug\Mihalich-zver.pdb

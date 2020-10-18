@@ -1,0 +1,5 @@
+C:\Users\olego\Desktop\Regex\Regex\bin\Debug\Regex.exe
+C:\Users\olego\Desktop\Regex\Regex\bin\Debug\Regex.pdb
+C:\Users\olego\Desktop\Regex\Regex\obj\Debug\Regex.csprojResolveAssemblyReference.cache
+C:\Users\olego\Desktop\Regex\Regex\obj\Debug\Regex.exe
+C:\Users\olego\Desktop\Regex\Regex\obj\Debug\Regex.pdb
